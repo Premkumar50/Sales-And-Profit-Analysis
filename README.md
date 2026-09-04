@@ -23,7 +23,8 @@ The main objectives of this project are:
 - Transform raw data into meaningful business insights.
 - Present the analysis through an easy-to-understand dashboard.
 
----
+## Dataset used
+- <a href="https://github.com/Premkumar50/Sales-And-Profit-Analysis/blob/main/Sales%20and%20Profit%20Analisis.xlsx">Dataset</a>
 
 ## ❓ Key Business Questions
 
