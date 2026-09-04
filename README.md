@@ -100,7 +100,7 @@ Upload your dashboard screenshot to this GitHub repository first.
 Then replace the text below with the image path/link.
 -->
 
-![Sales & Profit Analysis Dashboard](PASTE-YOUR-DASHBOARD-IMAGE-LINK-HERE)
+![Sales & Profit Analysis Dashboard](https://github.com/Premkumar50/Sales-And-Profit-Analysis/blob/main/Screenshot%202026-09-04%20163153.png)
 
 ---
 
@@ -119,15 +119,3 @@ Identification of the top customers based on profit contribution.
 
 ### Time-Based Analysis
 Monthly and yearly analysis helps identify changes and trends in business performance.
-
----
-
-## 📁 Project Files
-
-This repository contains:
-
-- **Sales and Profit Analysis Excel File** – Contains the complete analysis, Pivot Tables, charts, and dashboard.
-- **Raw Data Excel File** – Contains the original dataset used for analysis.
-- **Dashboard Screenshot** – Preview of the final Excel dashboard.
-- **README.md** – Documentation of the project.
-
