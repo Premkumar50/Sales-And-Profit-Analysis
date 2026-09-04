@@ -131,14 +131,3 @@ This repository contains:
 - **Dashboard Screenshot** – Preview of the final Excel dashboard.
 - **README.md** – Documentation of the project.
 
----
-
-## 📂 Repository Structure
-
-```text
-Sales-Profit-Analysis/
-│
-├── sales and profit analysis.xlsx
-├── Raw Data.xlsx
-├── dashboard.png
-└── README.mdualization.
